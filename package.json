@@ -12,6 +12,7 @@
     "prettier:check": "prettier -c ."
   },
   "dependencies": {
+    "ajax": "^0.0.4",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
